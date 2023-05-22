@@ -8,3 +8,5 @@ For a full profile check my [LinkedIn account](https://www.linkedin.com/in/rahma
 Languages I'm learning in 2023: Rust, Go, and Chinese.
 
 If you find me on Twitter, don't follow
+
+My commits and any actions recorded on this platform do no represent my professional affiliations. 
