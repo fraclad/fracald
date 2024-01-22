@@ -1,12 +1,13 @@
 ## Yooo 👋🏽
 
-For a full profile check my [LinkedIn account](https://www.linkedin.com/in/rahmatashari/), but at a glance:
+for a full somewhat-professional profile check out my [LinkedIn account](https://www.linkedin.com/in/rahmatashari/), but at a glance:
 
-1. data engineer for drilling, completions, and well servicing at Oxy's data management & analytics team
-2. code for fun, build cool (although often maybe useless lol) things
+1. data dev for oxy's upstream operations
+2. code for fun, build arguably cool (although often seemingly useless lol) things
 
-Languages I'm learning in 2023: Rust, Go, and Chinese.
+things i'm learning in 2024: 
+- javascript (for the 4th time fr)
+- d3.js
+- dealing with bullshit
 
-If you find me on Twitter, don't follow
-
-My commits and any actions recorded on this platform do no represent my professional affiliations. 
+if you find me on twitter, don't follow. my commits and any actions recorded on this platform do not represent my professional affiliations. 
